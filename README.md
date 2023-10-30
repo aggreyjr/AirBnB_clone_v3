@@ -20,6 +20,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+Later forked by Aggrey and interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
@@ -156,6 +157,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Aggrey Tukashaba - [Github] (https://github.com/aggreyjr) / [Twitter] (https://twitter.com/itsaggrey)
 
 Second part of Airbnb: Joann Vuong
 ## License
